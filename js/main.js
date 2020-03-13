@@ -1,3 +1,8 @@
 'use strict';
 
-console.log('Hello World from main.js!')
+console.log('hello');
+console.log("hello");
+
+// console.log("it's me!");
+
+console.log('hello' + 'world');
